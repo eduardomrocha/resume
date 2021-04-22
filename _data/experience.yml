@@ -1,0 +1,12 @@
+# Jobs
+# Software Architect
+- company: MS Bank - S.A. Foreign Exchange Bank
+  position: Software Architect
+  duration: Feb, 2019 &mdash; Jun, 2020
+  summary: My work was to help projects with minor and/or major design decisions, APIs design and specification using OpenAPI 3 to integrate partners systems to our systems and kept helping in the FX eTrading platform as a software developer. Also implanted Phabricator to serve as Git server, since the company had no standards regarding code storage and version control.
+
+# Software Developer
+- company: MS Bank - S.A. Foreign Exchange Bank
+  position: Software Developer
+  duration: Jan, 2017 &mdash; Jan, 2019
+  summary: Maintenance and development of new features in a FX eTrading platform as a fullstack developer. The main activities were made in the backend using Python 3.6 as programming language, FIX Protocol to communicate with brokers, Tornado framework and Peewee ORM. There were some minor frontend activities using JavaScript, HTML and CSS.

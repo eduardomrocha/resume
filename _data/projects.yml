@@ -1,0 +1,9 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Pet Tree
+- project: Pet Tree
+  role: Backend Software Engineer
+  duration: Oct, 2020 &mdash; Present
+  url: "https://github.com/faz-melhor/pet-tree-api"
+  description: Pet Tree is an App created by a group of friends just for fun and the desire to learn new technologies, we call our group <a href="https://github.com/faz-melhor" target=_blank rel="noopener noreferrer">"faz-melhor"</a>.
