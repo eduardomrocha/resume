@@ -1,12 +1,15 @@
 # Skills
 - skill: Programing Languages
-  description: Python, Golang, Elixir, Javascript
+  description: Python, Golang, Elixir, JavaScript, TypeScript
 
-#- skill: Frameworks
-  #description: Pandas, Python Click, Pytest, Django, Python requests
+- skill: Frameworks
+  description: FastAPI, Flask, Tornado, ReactJS, React Native
+
+- skill: Databases
+  description: PostgreSQL, MySQL
 
 - skill: Other
-  description: Docker, OpenAPI 3, RESTful API Design, PostgreSQL, MySQL, ReactJS, React Native, GIT Version control
+  description: Docker, OpenAPI 3, RESTful API Design, Git, HTML, CSS
 
 - skill: Languages
   description: English and Portuguese

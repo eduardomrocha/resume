@@ -3,10 +3,23 @@
 - company: MS Bank - S.A. Foreign Exchange Bank
   position: Software Architect
   duration: Feb, 2019 &mdash; Jun, 2020
-  summary: My work was to help projects with minor and/or major design decisions, APIs design and specification using OpenAPI 3 to integrate partners systems to our systems and kept helping in the FX eTrading platform as a software developer. Also implanted Phabricator to serve as Git server, since the company had no standards regarding code storage and version control.
+# summary: My work was to help projects with minor and/or major design decisions, APIs design and specification using OpenAPI 3 to integrate partners systems to our systems and kept helping in the FX eTrading platform as a software developer. Also implanted Phabricator to serve as Git server, since the company had no standards regarding code storage and version control.
+  activities:
+    - activity: I helped about ten other developers with small and big design decisions by participating in various problem-solving discussions.
+    - activity: To integrate partners' systems with our systems, I designed and specified APIs using Open API 3.
+    - activity: I attended a number of meetings with partners to gather requirements, better understand their needs, and discuss potential solutions.
+    - activity: I also kept contributing to the FX eTrading platform, mostly as a mentor.
+    - activity: I started an initiative to move all projects source code to a Git server. Because the organization had no standards for code storage and version control, I also implanted Phabricator to act as a Git server.
+
 
 # Software Developer
 - company: MS Bank - S.A. Foreign Exchange Bank
   position: Software Developer
   duration: Jan, 2017 &mdash; Jan, 2019
-  summary: Maintenance and development of new features in a FX eTrading platform as a fullstack developer. The main activities were made in the backend using Python 3.6 as programming language, FIX Protocol to communicate with brokers, Tornado framework and Peewee ORM. There were some minor frontend activities using JavaScript, HTML and CSS.
+  # summary: Maintenance and development of new features in a FX eTrading platform as a fullstack developer. The main activities were made in the backend using Python 3.6 as programming language, FIX Protocol to communicate with brokers, Tornado framework and Peewee ORM. There were some minor frontend activities using JavaScript, HTML and CSS.
+  activities:
+    - activity: Maintenance and development of new features in an FX eTrading platform as a full-stack developer.
+    - activity: In the backend, Python 3.6 was used as a programming language, FIX Protocol to communicate with brokers, Tornado Framework, and Peewee ORM were used.
+    - activity: There were some minor frontend activities using JavaScript, HTML, and CSS.
+    - activity: Developed an API to provide exchange rates to partner companies.
+    - activity: I took part in multiple conversations with different teams to share information, debate difficulties, and find solutions, both to help and to be helped.

@@ -1,10 +1,6 @@
 - degree: Postgraduate Degree, Distributed Software Architecture
   uni: Pontifical Catholic University of Minas Gerais
-  year: 2020 &mdash; Present
-
-- degree: Bachelor of Science - BS, Computer Software Engineering
-  uni: Kingston University
-  year: 2014 &mdash; 2015
+  year: 2020 &mdash; 2022
 
 - degree: Bachelor of Science - BS, Computer Science
   uni: Western Paraná State University
@@ -12,3 +8,9 @@
   awards:
     - award: Undergraduate research developing an Android app to help taxi drivers to learn english through instrumental english approach.
     - award: Final paper about Image Processing to Pair and Classify Fish Chromosomes.
+
+- degree: Bachelor of Science - BS, Computer Software Engineering
+  uni: Kingston University
+  year: 2014 &mdash; 2015
+  awards:
+    - award: For a year, I was an exchange student at Kingston University through the Science Without Borders program. <br> <br> Science without Borders (Ciência sem Fronteiras – CsF) was a government program started in 2011 and closed in 2016, which sought to promote the consolidation, expansion and internationalization of science and technology, innovation and competitiveness of Brazil through exchange programs and international mobility.

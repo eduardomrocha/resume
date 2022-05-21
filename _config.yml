@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     "Foz do Iguaçu, Brasil"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>BSc in Computer Science and currently a postgraduate student in Distributed Software Architecture. My career started at a foreign exchange bank as a software developer and later as a software architect, so I created a special affection for the financial area. Actively seeking new challenges abroad.</p>"
+resume_header_intro: "<p>BSc in Computer Science and Postgraduate in Distributed Software Architecture. My career started at a foreign exchange bank as a software developer and later as a software architect, so I developed a special affection for the financial area.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -35,7 +35,7 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        false
+resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     false
 resume_section_links:           false
@@ -51,8 +51,9 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/eduardomrocha"
   # resume_instagram_url:         "insert your Instagram URL here"
-  #resume_website_url:           "http://"
+  resume_website_url:           "http://eduardomrocha.dev"
   #resume_medium_url:            "https://medium.com/@"
+  resume_leetcode_url:            "https://leetcode.com/eduardomrocha"
 resume_print_social_links:      true
 
 # Design settings
