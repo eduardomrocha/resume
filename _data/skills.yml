@@ -1,3 +1,4 @@
+---
 # Skills
 - skill: Programing Languages
   description: Python, Golang, Elixir, JavaScript, TypeScript
@@ -9,7 +10,7 @@
   description: PostgreSQL, MySQL
 
 - skill: Other
-  description: Docker, OpenAPI 3, RESTful API Design, Git, HTML, CSS
+  description: AWS, Docker, OpenAPI 3, RESTful API Design, Git, HTML, CSS
 
 - skill: Languages
   description: English and Portuguese
