@@ -24,8 +24,10 @@ resume_contact_address: ""
 resume_header_contact_info: "Foz do Iguaçu, Brasil"
 display_header_contact_info: "true"
 
-resume_header_intro: "<p>BSc in Computer Science and Postgraduate in Distributed
-                      Software Architecture.</p>"
+resume_header_intro: "<p>Experienced software engineer with a BSc in Computer
+                      Science and a postgraduate degree in Distributed Software
+                      Architecture. 6+ years of experience delivering
+                      high-quality software solutions.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
