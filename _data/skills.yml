@@ -4,13 +4,13 @@
   description: Python, JavaScript, TypeScript
 
 - skill: Frameworks
-  description: FastAPI, Flask, Tornado, ReactJS, React Native
+  description: FastAPI, Flask, Tornado, React
 
 - skill: Databases
-  description: PostgreSQL, MySQL
+  description: PostgreSQL, MySQL, DynamoDB
 
 - skill: Other
-  description: AWS, Docker, OpenAPI 3, RESTful API Design, Git, HTML, CSS
+  description: AWS, Docker, OpenAPI 3, RESTful API Design, HTML, CSS
 
 - skill: Languages
   description: English and Portuguese

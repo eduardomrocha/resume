@@ -2,12 +2,12 @@
 # Jobs
 # Semi Senior Python and JavaScript Developer
 - company: Nearsure
-  position: Semi Senior Python and JavaScript Developer
+  position: Python and JavaScript Developer
   duration: Jul, 2022 &mdash; Present
   activities:
     - activity: As a full-stack engineer, I develop, test, and deploy new
                 features and bug corrections using Python, React, TypeScript,
-                JavaScript, HTML, CSS, Git, PostgreSQL, and AWS.
+                JavaScript, HTML, CSS, PostgreSQL, and AWS.
     - activity: Back-end development of new features using Python, Flask,
                 PostgreSQL, and AWS.
     - activity: Front-end development using JavaScript, HTML, and CSS.
@@ -15,8 +15,8 @@
                 not want to use our platform's UI.
     - activity: Model new PostgreSQL tables and/or databases to support feature
                 requirements, if necessary.
-    - activity: Modifying software to fix errors, adapt it to new hardware,
-                improve its performance, or upgrade interfaces.
+    - activity: Modifying software to fix errors, improve its performance,
+                or upgrade interfaces.
     - activity: Directing system testing and validation procedures.
     - activity: Directing software programming and documentation development.
     - activity: The company uses Git and GitHub as code versioning systems.
