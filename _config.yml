@@ -22,12 +22,15 @@ resume_contact_telephone: ""
 resume_contact_address: ""
 
 resume_header_contact_info: "Foz do Iguaçu, Brasil"
-display_header_contact_info: "true"
+display_header_contact_info: "false"
 
 resume_header_intro: "<p>Experienced software engineer with a BSc in Computer
                       Science and a postgraduate degree in Distributed Software
-                      Architecture. 6+ years of experience delivering
-                      high-quality software solutions.</p>"
+                      Architecture. Proven track record of delivering
+                      high-quality software solutions. Proficient in Python,
+                      JavaScript, and TypeScript with expertise in back-end
+                      development. Skilled in designing RESTful APIs,
+                      modeling databases, and deploying on AWS.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

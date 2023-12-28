@@ -5,9 +5,6 @@
   position: Python and JavaScript Developer
   duration: Jul, 2022 &mdash; Present
   activities:
-    - activity: As a full-stack engineer, I develop, test, and deploy new
-                features and bug corrections using Python, React, TypeScript,
-                JavaScript, HTML, CSS, PostgreSQL, and AWS.
     - activity: Back-end development of new features using Python, Flask,
                 PostgreSQL, and AWS.
     - activity: Front-end development using JavaScript, HTML, and CSS.
@@ -15,64 +12,50 @@
                 not want to use our platform's UI.
     - activity: Model new PostgreSQL tables and/or databases to support feature
                 requirements, if necessary.
-    - activity: Modifying software to fix errors, improve its performance,
-                or upgrade interfaces.
+    - activity: Optimized software performance by identifying and addressing
+                critical errors and implementing interface upgrades.
     - activity: Directing system testing and validation procedures.
     - activity: Directing software programming and documentation development.
-    - activity: The company uses Git and GitHub as code versioning systems.
+    - activity: Utilized Git and GitHub for code versioning.
 
 # Software Architect
 - company: MS Bank - S.A. Foreign Exchange Bank
   position: Software Architect
   duration: Feb, 2019 &mdash; Jun, 2020
   activities:
-    - activity: By participating in various problem-solving discussions, I
-                assisted about ten other developers with small and large design
-                decisions.
-    - activity: To integrate partners' systems with our systems, I designed and
-                specified REST/RESTful APIs using Open API 3.
-    - activity: Attended a number of meetings with partners to gather
-                requirements, better understand their needs, and discuss
-                potential solutions.
+    - activity: Led design decisions, providing mentorship to a team of
+                developers.
+    - activity: Designed and specified RESTful APIs using Open API 3 to
+                integrate partners' systems.
+    - activity: Conducted meetings with partners to gather requirements
+                and discuss solutions.
     - activity: Participated in several software architecture discussions.
-    - activity: I continued to contribute to the FX eTrading platform, primarily
-                as a mentor but also as a developer using Python, JavaScript,
-                MySQL, HTML, and CSS.
-    - activity: Started an initiative to move all projects' source code to a Git
-                server.
-    - activity: Because the organization had no standards for code storage or
-                code version control, I started an initiative to implant
-                Phabricator to act as a Git server.
-    - activity: Collaborating with various stakeholders to determine software
+    - activity: Contributed to the FX eTrading platform, primarily as a mentor
+                but also as a developer using Python, JavaScript, MySQL, HTML,
+                and CSS.
+    - activity: Initiated the adoption of Git as the version control system.
+    - activity: Collaborated with stakeholders to determine software
                 requirements.
-    - activity: Creating high-level product specifications and design documents.
-    - activity: Providing architectural blueprints for the development team to
-                follow.
+    - activity: Created high-level product specifications and design documents.
+    - activity: Provided architectural blueprints for the development team.
 
 # Software Developer
 - company: MS Bank - S.A. Foreign Exchange Bank
   position: Software Developer
   duration: Jan, 2017 &mdash; Jan, 2019
   activities:
-    - activity: As a full-stack developer, maintain and develop new features in
-                an FX eTrading platform.
-    - activity: Python 3.6 was used as a programming language in the backend,
-                along with the FIX Protocol to communicate with brokers, the
-                Tornado Framework, and Peewee ORM.
-    - activity: There were some minor frontend activities using JavaScript,
-                HTML, and CSS.
-    - activity: The database was MySQL.
-    - activity: Git and BitBucket were used as version control systems.
+    - activity: Full-stack development on the FX eTrading platform using Python,
+                JavaScript, Tornado, MySQL, HTML, and CSS.
     - activity: Developed REST/RESTful APIs to provide exchange rates to partner
                 companies.
-    - activity: Participated in multiple conversations with various teams to
-                share information, debate problems, and find solutions, both to
-                help and to be helped.
-    - activity: Modifying software to fix errors, adapt it to new hardware,
-                improve its performance, or upgrade interfaces.
+    - activity: Contributed to team discussions for problem-solving and solution
+                finding.
+    - activity: Modified software for error resolution, and performance
+                improvement.
     - activity: Directing system testing and validation procedures.
     - activity: Directing software programming and documentation development.
     - activity: Consulting with departments or customers on project status and
                 proposals.
     - activity: Working with customers or departments on technical issues,
                 including software system design and maintenance.
+    - activity: Git and BitBucket were used as version control systems.
