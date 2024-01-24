@@ -1,7 +1,7 @@
 ---
 # Skills
 - skill: Programing Languages
-  description: Python, JavaScript, TypeScript
+  description: Python, JavaScript, TypeScript, Golang
 
 - skill: Frameworks
   description: FastAPI, Flask, Tornado, React

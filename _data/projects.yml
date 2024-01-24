@@ -23,3 +23,12 @@
                API. After that, I started working on the web application with
                ReactJS, and after finishing that, I also contributed to the
                mobile app development.
+
+ - project: TODO List API
+   role: Software Engineer
+   description: A straightforward API in Golang, leveraging the Gin
+                Framework. This API offers endpoints for the client application
+                to perform operations such as creating, reading, updating, and
+                deleting tasks. The primary goal of this project was to explore
+                the fundamentals of backend development with Golang and a
+                selected framework.
