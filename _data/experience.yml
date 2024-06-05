@@ -1,22 +1,23 @@
 ---
 # Jobs
-# Semi Senior Python and JavaScript Developer
-- company: Nearsure
-  position: Python and JavaScript Developer
+- company: Impel
+  position: FullStack Engineer
   duration: Jul, 2022 &mdash; Present
   activities:
-    - activity: Back-end development of new features using Python, Flask,
-                PostgreSQL, and AWS.
-    - activity: Front-end development using JavaScript, HTML, and CSS.
-    - activity: Create REST/RESTful APIs to expose features to clients who do
-                not want to use our platform's UI.
+    - activity: I was part of a project focused on creating a ChatBot
+                App using React and TypeScript.
+    - activity: Back-end development of new features and REST/RESTful APIs using
+                Python, Flask, PostgreSQL, and AWS.
+    - activity: Front-end development using React, TypeScript, JavaScript, HTML,
+                and CSS.
+    - activity: Created REST/RESTful APIs, using the Flask Framework, to expose
+                features to clients who do not want to use our platform's UI.
     - activity: Model new PostgreSQL tables and/or databases to support feature
                 requirements, if necessary.
     - activity: Optimized software performance by identifying and addressing
                 critical errors and implementing interface upgrades.
     - activity: Directing system testing and validation procedures.
     - activity: Directing software programming and documentation development.
-    - activity: Utilized Git and GitHub for code versioning.
 
 # Software Architect
 - company: MS Bank - S.A. Foreign Exchange Bank
